@@ -2109,9 +2109,15 @@
          -->
     <string-array translatable="false" name="config_globalActionsList">
         <item>power</item>
+<<<<<<< HEAD
         <item>restart</item>
         <item>bugreport</item>
+=======
+        <item>reboot</item>
+        <item>airplane</item>
+>>>>>>> 7b8d4e5... Add reboot menu [1/2]
         <item>users</item>
+        <item>silent</item>
     </string-array>
 
     <!-- Number of milliseconds to hold a wake lock to ensure that drawing is fully
